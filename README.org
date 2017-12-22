@@ -1,0 +1,4 @@
+#+title: Script de déploiement pour un serveur Sugarizer
+
+Ce script est à lancer sur un Raspberry PI 3 ([[http://www.raspbian.org/][Raspbian]]) et va
+installer un serveur [[https://sugarizer.org][Sugarizer]] ainsi que d’autres logiciels.
